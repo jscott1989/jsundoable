@@ -1,0 +1,5 @@
+JSUndoable
+----------
+Javascript undo manager using the command pattern and based roughly on Cocoa.
+
+Instructions available at http://jscott.me/jsundoable.html
